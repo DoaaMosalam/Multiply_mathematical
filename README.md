@@ -5,7 +5,7 @@ Multiply Processing Mathematical Library
 <img src="https://thehope-tech.com/images/posts/middle/2022/12/638da4aa65923.png" alt="AndroidLibray"/>
 </p>
 
-[![](https://jitpack.io/v/mohamedtamer0/Compose-Curved-Scroll-library.svg)](https://jitpack.io/#mohamedtamer0/Compose-Curved-Scroll-library)
+[![](https://jitpack.io/v/DoaaMosalam/Multiply_mathematical.svg)](https://jitpack.io/#DoaaMosalam/Multiply_mathematical)
 ![Message](https://img.shields.io/static/v1?label=Android&message=Library&color=green)
 
  Multiply processing Mathematical is a Kotlin library made with ❤️.
