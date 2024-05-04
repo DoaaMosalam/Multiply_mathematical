@@ -1,5 +1,5 @@
 <h1 align="center">
-Multiply Processing Mathematical library
+Multiply Processing Mathematical Library
 </h1>
 <p align="center">
 <img src="https://thehope-tech.com/images/posts/middle/2022/12/638da4aa65923.png" alt="AndroidLibray"/>
@@ -8,13 +8,24 @@ Multiply Processing Mathematical library
 [![](https://jitpack.io/v/mohamedtamer0/Compose-Curved-Scroll-library.svg)](https://jitpack.io/#mohamedtamer0/Compose-Curved-Scroll-library)
 ![Message](https://img.shields.io/static/v1?label=Android&message=Library&color=green)
 
-Multiply processing mathematical is a Kotlin library made with ❤️.
+ Multiply processing Mathematical is a Kotlin library made with ❤️.
+ It is a comprehensive mathematical library designed to provide various mathematical operations and functionalities for developers across various programming languages and platforms. This versatile library offers a rich set of mathematical tools to support diverse applications, from basic arithmetic calculations to advanced mathematical modeling.
 
 ## Preview
 <div align="center">
 <br/>
 
-![img_4](https://github.com/DoaaMosalam/Multiply_mathematical/assets/40686512/a51c9d01-9a4e-42d7-81b1-f1bd2abc8dfc)
+<img src="https://github.com/DoaaMosalam/Multiply_mathematical/assets/40686512/a51c9d01-9a4e-42d7-81b1-f1bd2abc8dfc" width="500" height="500"/>
+
+ScreenShoot     
+
+Screen 1          |  screen 2    
+:-------------------------:|:-------------------------:
+<img src="https://github.com/DoaaMosalam/Multiply_mathematical/assets/40686512/b6a0ca38-1d1c-4908-8508-d7b9c1a0347a" width="600" height="400" />  | <img src="https://github.com/DoaaMosalam/Multiply_mathematical/assets/40686512/4898bd7c-1b46-4ae5-ab5c-78319306c428" width="600" height="400" /> 
+
+Screen 3          |  screen 4    
+:-------------------------:|:-------------------------:
+<img src="https://github.com/DoaaMosalam/Multiply_mathematical/assets/40686512/dee3980d-2723-4bef-bd85-1294e6714426" width="600" height="400" /> | <img src="https://github.com/DoaaMosalam/Multiply_mathematical/assets/40686512/6ee5b0e0-a705-4544-bccd-bf97ff51b282" width="600" height="400" /> 
 </div>
 <br/>
 <br/>
@@ -33,7 +44,7 @@ dependencyResolutionManagement {
     }
 }
 ```
-
+زز
 ## Step 2: Add the dependency in your `build.gradle`(app)
 
 ```groovy
@@ -72,3 +83,24 @@ println("Point is add: ${add(30.0,20.0)}")
 
 # License
 ```
+MIT License
+
+Copyright (c) 2024 Doaa Mosalam
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
