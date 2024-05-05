@@ -21,11 +21,11 @@ ScreenShoot
 
 Screen 1          |  screen 2    
 :-------------------------:|:-------------------------:
-<img src="https://github.com/DoaaMosalam/Multiply_mathematical/assets/40686512/b6a0ca38-1d1c-4908-8508-d7b9c1a0347a" width="600" height="400" />  | <img src="https://github.com/DoaaMosalam/Multiply_mathematical/assets/40686512/4898bd7c-1b46-4ae5-ab5c-78319306c428" width="600" height="400" /> 
+<img src="https://github.com/DoaaMosalam/Multiply_mathematical/assets/40686512/b6a0ca38-1d1c-4908-8508-d7b9c1a0347a" width="600" height="600" />  | <img src="https://github.com/DoaaMosalam/Multiply_mathematical/assets/40686512/4898bd7c-1b46-4ae5-ab5c-78319306c428" width="600" height="600" /> 
 
 Screen 3          |  screen 4    
 :-------------------------:|:-------------------------:
-<img src="https://github.com/DoaaMosalam/Multiply_mathematical/assets/40686512/dee3980d-2723-4bef-bd85-1294e6714426" width="600" height="400" /> | <img src="https://github.com/DoaaMosalam/Multiply_mathematical/assets/40686512/6ee5b0e0-a705-4544-bccd-bf97ff51b282" width="600" height="400" /> 
+<img src="https://github.com/DoaaMosalam/Multiply_mathematical/assets/40686512/dee3980d-2723-4bef-bd85-1294e6714426" width="600" height="600" /> | <img src="https://github.com/DoaaMosalam/Multiply_mathematical/assets/40686512/6ee5b0e0-a705-4544-bccd-bf97ff51b282" width="600" height="600" /> 
 </div>
 <br/>
 <br/>
