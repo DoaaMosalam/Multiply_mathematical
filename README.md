@@ -30,6 +30,18 @@ Screen 3          |  screen 4
 <br/>
 <br/>
 
+# Explaining: The mathematical operations in the library
+1. Simple arithmetic operations such as (addition, subtraction, multiplication, and division)
+2. Advanced arithmetic operations such as (square, sin, cosh and tan)
+3. Scalar Multiplication: Multiply the coordinates of a point by a scalar value.
+4. Translate: Move a point by a certain offset in the x and y directions.
+5. Rotate: Rotate a point around the origin or another point by a given angle.
+6. Dot Product: Calculate the dot product of two points, treating them as vectors.
+7. Cross Product: Calculate the cross product of two points, treating them as vectors (useful in 3D geometry).
+8. Reflect: Reflect a point about a given line or axis.
+9. Area of Triangle: Calculate the area of a triangle formed by three points.
+10. Polar Coordinates: Convert Cartesian coordinates to polar coordinates and vice versa.
+11. Distance to Line: Calculate the shortest distance from the point to a given line.
 
 # Installation
 
